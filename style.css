@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://krita-artists.org/uploads/default/original/3X/d/0/d082e40877648e62fc832e50b7b91fc9d8a3f671.gif');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
